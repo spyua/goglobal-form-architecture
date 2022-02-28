@@ -1,0 +1,4 @@
+[DeviceCom]
+MS2BoardCom = COM3
+PDBOardCom = COM5
+UCBCom = COM4
