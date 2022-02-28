@@ -82,6 +82,7 @@
     <Compile Include="Repository\COMP_TESTING_STAGE.cs" />
     <Compile Include="Repository\ProductInfo.cs" />
     <Compile Include="Repository\ProductInfoRepository.cs" />
+    <Compile Include="Repository\users.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
